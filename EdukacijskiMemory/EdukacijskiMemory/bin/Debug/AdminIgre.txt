@@ -1,0 +1,16 @@
+ADMIN|Životinje|pas|dog|mačka|cat|lav|lion|žirafa|giraffe|slon|elephant|majmun|monkey
+ADMIN|Brojevi|jedan|one|dva|two|tri|three|četiti|four|pet|five|šest|six
+ADMIN|Brojevi|sedam|seven|osam|eight|devet|nine|deset|ten|jedanaest|eleven|dvanaest|twelve
+ADMIN|Škola|olovka|pencil|kemijska|pen|gumica|eraser|pernica|pencil case|torba|school bag|ravnalo|ruler|šestar|compass|bilježnica|notebook
+ADMIN|Brojevi|jedan|1|dva|2|tri|3|četiri|4|pet|5|šest|6
+ADMIN|Zbrajanje|1+1|2|2+6|4+4|3+3|1+5|4+8|9+3|1+6|3+4|3+7|5+5
+ADMIN|Oduzimanje|10-2|8|5-3|2|7-3|4|9-8|1|8-5|3|9-4|5
+ADMIN|Množenje|1*5|5|2*5|10|3*7|21|4*8|32|9*7|63|4*6|24|7*8|56|8*8|64
+ADMIN|ŽivotinjeNjem|pas|der Hund|mačka|die Katze|zec|das Kaninchen|riba|der Fisch|hrčak|der Hamster|zmija|die Schlange
+ADMIN|ŽivotinjeNjem2|ptica|der Vogel|gušter|die Eidechse|miš|die Maus|kornjača|die Schildkröte|krava|die Kuh|svinja|das Schwein
+ADMIN|VrijemeNjem|tjedan|Woche|godina|Jahr|danas|heute|sutra|morgen|jučer|gestern|sat|Stunde
+ADMIN|BrojeviNjem|jedan|eins|dva|zwei|tri|drei|četiri|vier|pet|funf|šest|sechs|sedam|sieben|osam|acht
+ADMIN|ŽivotinjeTal|pas|Il cane|slon|L’elefante|mačka|Il gatto |lav|Il leone|vuk|Il lupo|svinja|Il maiale
+ADMIN|BrojeviTal|jedan|uno|dva|due|tri|tre|četiri|quattro|pet|cinque|šest|sei
+ADMIN|TalijanskiIzrazi|da|si|ne|no|molim|per favore|hvala|grazie|nema na čemu|prego|ispričavam se|mi scusi
+ADMIN|TalijanskiIzrazi2|žao mi je|mi dispiacie|dobro jutro|buon giorno|dobra večer|buona sera|laku noć|buona notte|kako ste|come sta|ne razumijem|non capisco|hvala|grazie|nema na čemu|prego

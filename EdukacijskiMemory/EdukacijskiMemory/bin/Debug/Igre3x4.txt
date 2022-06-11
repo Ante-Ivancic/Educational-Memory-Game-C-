@@ -1,0 +1,2 @@
+c|abcdef|a|a|b|b|c|c|d|d|e|e|f|f
+b|qwertz|q|q|w|w|e|e|r|r|t|t|z|z
